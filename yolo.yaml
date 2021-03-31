@@ -5,4 +5,4 @@ val: /content/DataMiningProject/images/train.list
 nc: 1
 
 # class names
-names: ['pedestrian']
+names: ['person']
