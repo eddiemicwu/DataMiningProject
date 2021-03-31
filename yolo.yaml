@@ -1,6 +1,6 @@
 # train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
-train: /content/DataMiningProject/images/train.list
-val: /content/DataMiningProject/images/train.list
+train: /content/DataMiningProject/images
+val: /content/DataMiningProject/images
 # number of classes
 nc: 1
 
